@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": "Cardioxil",
+    "type": "salud",
+    "subDescr": "preparado para reforzar el sistema cardiovascular",
+    "price": "30200",
+    "oldPrice": "100200",
+    "img": "../image/Azulo.png",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?",
+    "name": "Ana",
+    "age": "22",
+    "review": "Utilizo Meduslim desde hace casi 3 meses y este suplemento no deja de sorprenderme. ¡Antes tenía problemas para perder peso, pero después de usar Meduslim he perdido casi 4 kilos!"
+  },
+  {
+    "id": 2,
+    "title": "Cardioxil",
+    "type": "salud",
+    "subDescr": "preparado para reforzar el sistema cardiovascular",
+    "price": "100200",
+    "oldPrice": "100200",
+    "img": "../image/Azulo.png",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+  },
+  {
+    "id": 3,
+    "title": "Cardioxil",
+    "type": "salud",
+    "subDescr": "preparado para reforzar el sistema cardiovascular",
+    "price": "35000",
+    "oldPrice": "100200",
+    "img": "../image/Azulo.png",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+  },
+  {
+    "id": 4,
+    "title": "Cardioxil",
+    "type": "salud",
+    "subDescr": "preparado para reforzar el sistema cardiovascular",
+    "price": "30200",
+    "oldPrice": "100200",
+    "img": "../image/Azulo.png",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+  },
+  {
+    "id": 5,
+    "title": "Cardioxil",
+    "type": "salud",
+    "subDescr": "preparado tttt reforzar el sistema cardiovascular",
+    "price": "100200",
+    "oldPrice": "100200",
+    "img": "../image/Azulo.png",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+  },
+  {
+    "id": 6,
+    "title": "Cardioxil",
+    "type": "salud",
+    "subDescr": "preparado para reforzar el sistema cardiovascular",
+    "price": "30200",
+    "oldPrice": "100200",
+    "img": "../image/Azulo.png",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?",
+    "name": "Ana",
+    "age": "22"
+  },
+  {
+    "id": 7,
+    "title": "Cardioxil",
+    "type": "salud",
+    "subDescr": "preparado para reforzar el sistema cardiovascular",
+    "price": "100200",
+    "oldPrice": "100200",
+    "img": "../image/Azulo.png",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+  },
+  {
+    "id": 8,
+    "title": "111",
+    "type": "hipertension",
+    "subDescr": "preparado para reforzar el sistema cardiovascular",
+    "price": "100200",
+    "oldPrice": "100200",
+    "img": "../image/Azulo.png",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+  },
+  {
+    "id": 9,
+    "title": "111",
+    "type": "hipertension",
+    "subDescr": "preparado para reforzar el sistema cardiovascular",
+    "price": "100200",
+    "oldPrice": "100200",
+    "img": "../image/Azulo.png",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+  },
+  {
+    "id": 10,
+    "title": "111",
+    "type": "adelgazar",
+    "subDescr": "preparado para reforzar el sistema cardiovascular",
+    "price": "100200",
+    "oldPrice": "100200",
+    "img": "../image/Azulo.png",
+    "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+  }
+]
